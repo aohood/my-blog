@@ -1,0 +1,41 @@
+
+h1{
+  color:white;
+  padding: 20px;
+}
+
+
+.left{
+  float: left;
+}
+h3.sec-header{
+  color: white;
+  font-weight: lighter;
+  padding-left: 120px;
+  padding-bottom: 20px;
+}
+.pad{
+  padding-left: 60px;
+}
+body{
+  padding:20px;
+}
+
+ul{
+  font-size: 130%;
+  color: gray;
+  font-family: serif;
+}
+
+.side-bar{
+  float:right;
+  background-color: black;
+  color:white;
+  padding: 30px;
+}
+
+.organize{
+  font-size: 150%;
+  font-weight: bold;
+
+}
