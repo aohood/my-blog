@@ -17,18 +17,19 @@ h1{
   padding-bottom:20px;
 }
 .right-links p a{
-  position: relative;
-  left:80%;
-  padding-left: 20px;
-  padding-bottom: 80px;
-    color:red;
+  float:right;
+  margin-right: 20px;
+  color:white;
+  padding-left: 10px;
+  padding-bottom: 60px;
 }
 .red{
   color:red;
 }
 .second-body{
   padding-left: 20px;
-  padding-right: 20px;
+  padding-right:20px;
+
 }
 .pad{
   padding-left: 60px;
@@ -44,11 +45,13 @@ ul{
 }
 
 .side-bar{
+  margin-right: 10px;
   float:right;
   background-color: black;
   color:white;
   padding: 30px;
 }
+
 
 .organize{
   font-size: 140%;
